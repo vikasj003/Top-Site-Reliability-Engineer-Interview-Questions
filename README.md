@@ -7,8 +7,7 @@
 | No. | Questions |
 | --- | --------- |
 |1  | [Write Efficient data structure for a particular query?](#What-is-WordPress) |
-|2  | [Shuffle an array, make sure every element is not on the previous position  
-](#Which-year-was-WordPress-released) |
+|2  | [Shuffle an array, make sure every element is not on the previous position](#Which-year-was-WordPress-released) |
 |3  | [Implement a data structure that supports the operations flipBits(ith bit, # of bits) and getBit(ith bit), billions of possible bits, <= O(n log n) preferably?](#What-are-minimum-requirements-to-run-WordPress) |
 |5  | [Print a tree](#What-is-a-plugin-in-WordPress-List-plugin-that-comes-with-WordPress) |
 |6  | [How to find if two binary trees have the same structure?](#What-is-the-difference-between-wordpress-com-and-wordpress-org) |
