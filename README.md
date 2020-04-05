@@ -15,63 +15,63 @@
 |8  | [Do you have any recent personal projects?](#What-are-the-differences-between-Posts-and-Pages) |
 |9  | [What is graph traversal?](#What-are-the-types-of-hooks-in-WP-and-what-are-their-functions?) |
 |10 | [What is a tree?](#What-is-an-action-hook) |
-|11 | [What is a filter hook?](#What-is-a-filter-hook) |
-|12 | [How do you enable debug mode in WP?](#How-do-you-enable-debug-mode-in-WP)
-|13 | [What is a WordPress taxonomy?](#What-is-a-WordPress-taxonomy) |
-|14 | [What is Repository Pattern?](#what-is-repository-pattern) |
-|15 | [Is WordPress secure?](#Is-WordPres-secure) |
-|16 | [How many default tables are the WordPress, Can you list them?](#How-many-default-tables-are-the-WordPress-Can-you-list-them) |
-|17 | [What is default table prefix for wordpress?](#What-is-default-table-prefix-for-wordpress) |
-|18 | [How to setup Emails?](#how-to-setup-emails) |
-|19 | [What are Queues?](#what-are-queues) |
-|20 | [What are Jobs?](#what-are-jobs)
-|21 | [What are Advanced Eloquent and Query Builder?](#what-are-advanced-eloquent-and-query-builder) |
-|22 | [Which is Error management?](#which-is-error-management) |
-|23 | [How to create an API?](#how-to-create-an-api) |
-|24 | [What are Events?](#what-are-events) |
-|25 | [What are Listeners?](#what-are-listeners) |
-|26 | [What are Payments and cashier?](#what-are-payments-and-cashier) |
-|27 | [What is Test Driven Development?](#what-is-test-driven-development) |
-|28 | [What is Package development?](#what-is-package-development) |
-|29 | [What are Laravel Scout search and Algolia?](#what-are-laravel-scout-search-and-algolia) |
-|30 | [What is Socialite and Auth?](#what-is-socialite-auth) |
-|31 | [What is Vue-js?](#what-is-vue-js) |
-|32 | [How to connect Laravel with other SQL databases?](#How-to-connect-Laravel-with-other-SQL-databases) |
-|33 | [How to connect Laravel with non-SQL databases?](#How-to-connect-Laravel-with-non-SQL-databases) |
-|34 | [What is Lumen?](#what-is-lumen) |
-|35 | [What is Redis?](#what-is-redis) |
-|36 | [What is Memcache?](#what-is-memcache) |
-|37 | [What is Horizontal scaling?](#What-is-Horizontal-scaling) |
-|38 | [What is Vertical scaling?](#What-is-Vertical-scaling) |
-|39 | [What is Single Page Application in Laravel?](#What--Single-Page-Application-in-Laravel) |
-|40 | [What are Microservices in Laravel?](#What-are-Microservices-in-Laravel) |
-|41 | [What is CSRF and JWT token?](#what-is-CSRF-and-JWT-token) |
-|42 | [What is Service Oriented Architecture in Laravel?](#what-is-soa) |
-|43 | [What are Validations and custom validations?](#what-are-validators) |
-|44 | [What is Composer?](#what-is-composer) |
-|45 | [What is Symfony?](#what-is-symfony) |
-|46 | [What is Route caching?](#what-is-route-caching) |
-|47 | [What are Default packages: Cashier,Envoy,Passport,Scout,Socialite,Horizon?](#default-packages) |
-|48 | [What are Named routes?](#what-are-named-routes) |
-|49 | [What is Dependency injection in Laravel?](#what-is-dependency-injection) |
-|50 | [What are Laravel contracts?](#what-are-contracts) |
-|51 | [What is Query log?](#what-is-query-log) |
-|52 | [What are Laravel Traits?](#what-are-laravel-traits) |
-|53 | [What are Bundles in Laravel?](#what-are-Bundles-in-Laravel) |
-|54 | [What are System requirements for Laravel?](#what-are-system-requirements-for-laravel) |
-|55 | [What are Aggregate methods in query builder?](#what-are-aggregate-methods-in-query-builder) |
-|56 | [What is Singelton design pattern?](#what-is-singelton-design-pattern) |
-|57 | [What is Reverse routing?](#what-is-reverse-routing) | 
-|58 | [What are Popular composer packages?](#what-are-Popular-composer-packages) |
-|59 | [How to get the data from more than 3 table without using a join?](#how-to-get-the-data-from-more-than-3-table-without-using-a-join) |
-|60 | [List some artisan commands](#list-some-artisan-commands) |
-|61 | [What are Sessions?](#what-are-sessions) |
-|62 | [What are Cookies?](#what-are-cookies) |
-|63 | [What is Current version of PHP, MySQL, Laravel, MongoDB etc?](#what-is-current-version-of-PHP-MySQL-Laravel-MongoDB-etc) |
-|64 | [Describe design architecture of an app?](#Describe-design-architecture-of-an-app) |
-|65 | [What are SQL Injections?](#What-are-SQL-Injections) |
-|66 | [How to call static methods?](#How-to-call-static-methods) |
-|67 | [How to achieve multiple DB hosts?](#How-to-achieve-multiple-DB-hosts)
+|11 | [Given a collection of ads (data structure given), what is the mean and median of the array?](#What-is-a-filter-hook) |
+|12 | [Find the Height of a Binary Search Tree?](#How-do-you-enable-debug-mode-in-WP)
+|13 | [Write a program in C, that implements a shell's facilities for (1) initiating a background process, and (2) command line pipes.](#What-is-a-WordPress-taxonomy) |
+|14 | [Asked me the difference between a hard and soft link in Linux](#what-is-repository-pattern) |
+|15 | [Find all pairs of 3 in an array that add to n.](#Is-WordPres-secure) |
+|16 | [What's 2^32](#How-many-default-tables-are-the-WordPress-Can-you-list-them) |
+|17 | [Merging intervals](#What-is-default-table-prefix-for-wordpress) |
+|18 | [Merge lists/arrays](#how-to-setup-emails) |
+|19 | [Implement read() using read4k()](#what-are-queues) |
+|20 | [1 round of distributed system and large scale system design](#what-are-jobs)
+|21 | [Compress string "aabcaaaaade" to "aabc5xade". Only compress if it shortens the string. 5xa means char a is repeated 5 times.](#what-are-advanced-eloquent-and-query-builder) |
+|22 | [Question on 2 lists and their union/ intersection/ remove elements present in L1 which are also present in L2](#which-is-error-management) |
+|23 | [Basic list processing](#how-to-create-an-api) |
+|24 | [What information is contained in a file inode?](#what-are-events) |
+|25 | [HashMap/Hashtable questions?](#what-are-listeners) |
+|26 | [Design a "snakes" game](#what-are-payments-and-cashier) |
+|27 | [networking, java, and linux/unix](#what-is-test-driven-development) |
+|28 | [Linux system call for inode data](#what-is-package-development) |
+|29 | [How would you design a real-time sports data collection app] (at-are-laravel-scout-search-and-algolia) |
+|30 | [Made me do a regex of getting just the phone numbers out of a contacts.txt file over Google Docs](#what-is-socialite-auth) |
+|31 | [large scale systems design detail](hat-is-vue-js) |
+|32 | [design a phone number search tools](#How-to-connect-Laravel-with-other-SQL-databases) |
+|33 | [bit manipulation](#How-to-connect-Laravel-with-non-SQL-databases) |
+|34 | [familiarity with Unix/Linux Internals](#what-is-lumen) |
+|35 | [familiarity with TCP/IP](#what-is-redis) |
+|36 | [which system call returns inode information](#what-is-memcache) |
+|37 | [What signal does the "kill" command send by default](#What-is-Horizontal-scaling) |
+|38 | [How many IP addresses are usable on a /23 network](#What-is-Vertical-scaling) |
+|39 | [Can you describe a connection setup in TCP](#What--Single-Page-Application-in-Laravel) |
+|40 | [Filesystems, networking, scripting](#What-are-Microservices-in-Laravel) |
+|41 | [Implement a hash table](#what-is-CSRF-and-JWT-token) |
+|42 | [What's the default signal used in a kill command?](#what-is-soa) |
+|43 | [describe exactly what happens when you type 'telnet google.com 80' at a bash prompt, including shell interpretation, network connections](#what-are-validators) |
+|44 | [What happens when I type "ps" into a UNIX prompt?](#what-is-composer) |
+|45 | [How does RAID work?](#what-is-symfony) |
+|46 | [Something about how a switch works in its internals.](#what-is-route-caching) |
+|47 | [How would you design a thumbnail service?](#default-packages) |
+|48 | [String manipulation, Trees, Graphs and recursion.](#what-are-named-routes) |
+|49 | [Given a data structure of rows (source, ratio, destination), find the value of conversion for a given source to a given destination. Example (EUR, 1.23, GBP)](#what-is-dependency-injection) |
+|50 | [How many IP addresses does a network have with a netmask of 21](#what-are-contracts) |
+|51 | [Questions about sorting algorithms and their efficiency. Which one is faster, merge sort or bubble sort? As well as the Big O Notation](#what-is-query-log) |
+|52 | [Troubleshoot a production incident](#what-are-laravel-traits) |
+|53 | [Design the architecture of a system and plan capacity for it](#what-are-Bundles-in-Laravel) |
+|54 | [How does fork() work?](#what-are-system-requirements-for-laravel) |
+|55 | [Remove chars at first string from second string](#what-are-aggregate-methods-in-query-builder) |
+|56 | [Best and worst case of Quicksort](#what-is-singelton-design-pattern) |
+|57 | [How would you design hangouts](#what-is-reverse-routing) | 
+|58 | [Explain linux virtual memory](#what-are-Popular-composer-packages) |
+|59 | [Simple questions such as maximum length of binary tree (n, as it could be unbalanced)](#how-to-get-the-data-from-more-than-3-table-without-using-a-join) |
+|60 | [Given a numerym (first letter + length of omitted characters + last letter), how would you return all possible original words? E.G. i18n the numeronym of internationalization](#list-some-artisan-commands) |
+|61 | [large systems design?](#what-are-sessions) |
+|62 | [theoretical best trans-continental round-trip ping time](#what-are-cookies) |
+|63 | [Find the shortest path between two words (like "cat" and "dog), changing only one letter at a time.](#what-is-current-version-of-PHP-MySQL-Laravel-MongoDB-etc) |
+|64 | [number of bit in mac address](#Describe-design-architecture-of-an-app) |
+|65 | [3 first packet in tcpip connection?](#What-are-SQL-Injections) |
+|66 | [what a AAAA record?](#How-to-call-static-methods) |
+|67 | [Write the `tail` program, in C, on the whiteboard](#How-to-achieve-multiple-DB-hosts)
 |68 | [What is Abstract class?](#what-is-Abstract-class) |
 |69 | [What are Default ports for MySQL Email etc?](#what-are-Default-ports-for-MySQL-Email-etc) |
 |70 | [Explain Joins](#Explain-Joins) |
