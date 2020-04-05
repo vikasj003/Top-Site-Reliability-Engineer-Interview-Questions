@@ -33,9 +33,9 @@
 |26 | [Design a "snakes" game](#what-are-payments-and-cashier) |
 |27 | [networking, java, and linux/unix](#what-is-test-driven-development) |
 |28 | [Linux system call for inode data](#what-is-package-development) |
-|29 | [How would you design a real-time sports data collection app] (at-are-laravel-scout-search-and-algolia) |
+|29 | [How would you design a real-time sports data collection app] (#at-are-laravel-scout-search-and-algolia) |
 |30 | [Made me do a regex of getting just the phone numbers out of a contacts.txt file over Google Docs](#what-is-socialite-auth) |
-|31 | [large scale systems design detail](hat-is-vue-js) |
+|31 | [large scale systems design detail](#hat-is-vue-js) |
 |32 | [design a phone number search tools](#How-to-connect-Laravel-with-other-SQL-databases) |
 |33 | [bit manipulation](#How-to-connect-Laravel-with-non-SQL-databases) |
 |34 | [familiarity with Unix/Linux Internals](#what-is-lumen) |
