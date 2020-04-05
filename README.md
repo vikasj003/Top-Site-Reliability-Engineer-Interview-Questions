@@ -72,14 +72,8 @@
 |65 | [3 first packet in tcpip connection?](#What-are-SQL-Injections) |
 |66 | [what a AAAA record?](#How-to-call-static-methods) |
 |67 | [Write the `tail` program, in C, on the whiteboard](#How-to-achieve-multiple-DB-hosts)
-|68 | [What is Abstract class?](#what-is-Abstract-class) |
-|69 | [What are Default ports for MySQL Email etc?](#what-are-Default-ports-for-MySQL-Email-etc) |
-|70 | [Explain Joins](#Explain-Joins) |
-|71 | [Explain Unions](#Explain-Unions) |
-|72 | [How mongodb is better than relational databases?](#How-mongodb-is-better-than-relational-databases) |
-|73 | [What is  mongodb?](#What-is-mongodb) |
-|74 | [What is default session time?](#What-is-default-session-time)
-
+|68 | [Write a function to return the most frequently occurring number in a list (the mode).](#what-is-Abstract-class) |
+|69 | [Describe Linux from its kernel level?](#what-are-Default-ports-for-MySQL-Email-etc) |
 
  
 1. ###  What is WordPress?
